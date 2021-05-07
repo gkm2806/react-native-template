@@ -125,8 +125,9 @@ See the [open issues](https://github.com/gkm2806/react-native-template/issues) f
 
 | Status | Goal | Labels | PR |
 | :---: | :--- | --- | --- |
-| ❌ | start with react-native-template-typescript | `next`|  |
-| ❌ | Redux |`easy`|  |
+| 🚀 | start with react-native-template-typescript | `done`| [#1](https://github.com/gkm2806/react-native-template/pull/1) |
+| ❌ | Redux |`easy; next`|  |
+| ❌ | Lint | `next` |  |
 | ❌ | API connection |`easy`|  |
 | ❌ | Router |`So many possibilities 🤔`|  |
 | ❌ | Auth |`So many possibilities 🤔`|  |
