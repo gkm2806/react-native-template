@@ -133,6 +133,8 @@ See the [open issues](https://github.com/gkm2806/react-native-template/issues) f
 | ❌ | Firebase |`help wanted`|  |
 | ❌ | Toast |`kinda easy`|  |
 | ❌ | Animation |`help wanted`|  |
+| ❌ | automated tests |`help wanted`| |
+| ❌ | CD |`help wanted`| |
 
 <!-- CONTRIBUTING -->
 ## Contributing
