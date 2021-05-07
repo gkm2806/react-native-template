@@ -127,6 +127,7 @@ See the [open issues](https://github.com/gkm2806/react-native-template/issues) f
 | :---: | :--- | --- | --- |
 | ❌ | start with react-native-template-typescript | `next`|  |
 | ❌ | Redux |`easy`|  |
+| ❌ | Lint |  |  |
 | ❌ | API connection |`easy`|  |
 | ❌ | Router |`So many possibilities 🤔`|  |
 | ❌ | Auth |`So many possibilities 🤔`|  |

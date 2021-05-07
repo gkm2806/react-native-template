@@ -19,6 +19,8 @@
    View,
  } from 'react-native';
 
+ import { Provider } from 'react-redux';
+
  import {
    Colors,
    DebugInstructions,
@@ -26,12 +28,15 @@
    LearnMoreLinks,
    ReloadInstructions,
  } from 'react-native/Libraries/NewAppScreen';
+ import { store } from './src/store';
+
 
  const Section: React.FC<{
    title: string;
  }> = ({children, title}) => {
    const isDarkMode = useColorScheme() === 'dark';
    return (
+    <Provider store={store}>
      <View style={styles.sectionContainer}>
        <Text
          style={[
@@ -52,6 +57,7 @@
          {children}
        </Text>
      </View>
+    </Provider>
    );
  };
 
