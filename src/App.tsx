@@ -21,7 +21,7 @@ import {
 
 import { Provider } from 'react-redux';
 
-import { store } from './src/store';
+import { store } from './store';
 
 const App = () => {
   const isDarkMode = useColorScheme() === 'dark';
